@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Craigslist-Project
+## DAte type for Craiglists
 
 *Default Structure for A Basic Project*
 
